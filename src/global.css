@@ -1,0 +1,56 @@
+* {
+    font-family: "Lato", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+  
+html, body {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+
+h1, h3 {
+  color:  #0BBBEF;
+  font-weight: 600;
+}
+
+h4 {
+  color: rgb(50, 194, 50);
+  font-weight: 500;
+}
+
+p {
+  font-weight: 600;
+}
+
+.nav {
+  background-color: #0BBBEF;
+}
+
+.nav .btn-primary{
+  font-weight: 600;
+  color: #fff;
+  border: none;
+  background-color: #0BBBEF;
+}
+
+b {
+  color: #0BBBEF;
+}
+
+.modelob {
+  color: #ff800a;
+}
+
